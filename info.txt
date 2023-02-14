@@ -1,0 +1,19 @@
+Data preparation process
+Create basic analytics on the nature of the data
+Providing advanced analytics such as forecast, geoanalysis, outlier, RFM or clustering
+Generate a model which can be applied to the data based on analytics above (plus value)
+Documenting all the process and analytics result
+Submissions must be in reproducible codes in GitHub/GitLab
+Any language can be used to build the pipeline but Python is preferable and prioritized
+
+#Define the problem
+
+1. Customer Segmentation
+2. Sales Forecasting
+
+Addition
+geoanalysis, outlier, RFM, or clustering
+
+(Optional)
+3. Product Recomendations
+https://medium.com/mlearning-ai/recommendation-system-using-collborative-filtering-90e26cbfb4ed
