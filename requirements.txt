@@ -1,0 +1,10 @@
+pmdarima
+scikit-learn
+xgboost
+holoviews
+geoviews
+datashader
+colorcet
+bokeh
+scipy
+yellowbrick
