@@ -29,9 +29,24 @@ move data-perqara.zip to data and extract the zip file
 
 # Main Code
 
-main.ipynb
+The assessment file is in main.ipynb
 
-# Model Results
+# Results
+
+Geoanalysis
+
+![My Image](https://raw.githubusercontent.com/fadilrisdian/perqara-assesment/main/img/1.png)
+
+Customer Segmentation
+
+![My Image](https://raw.githubusercontent.com/fadilrisdian/perqara-assesment/main/img/2.png)
+
+Forecasting
+
+![My Image](https://raw.githubusercontent.com/fadilrisdian/perqara-assesment/main/img/3.png)
+
+
+Model
 
 | Model                   | MAE        |RMSE|
 | :---                    | ---        |---|
